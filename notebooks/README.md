@@ -6,7 +6,7 @@ This folder contains the 6 Databricks notebooks for the FloodGuard ML Pipeline.
 3. `3_Gold_Regression.ipynb` — 5 regression algorithms + MLflow
 4. `4_Gold_Classification_&_Clustering.ipynb` — 5 classification & clustering algorithms + MLflow
 5. `5_Evaluation_LIME_SHAP.ipynb` — Confusion matrix, ROC, LIME, SHAP
-6. `6_Scalability_Tableau_Export.ipynb` — sklearn comparison, scaling, Tableau CSV export
+6. `6_Gold_Layer_Tableau.ipynb` — sklearn comparison, scaling, Tableau CSV export
 
 ## Requirements
 - Databricks Community Edition (Classic cluster, NOT Serverless)
