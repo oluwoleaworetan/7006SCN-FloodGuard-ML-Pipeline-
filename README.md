@@ -59,7 +59,7 @@ project/
 │   ├── 3_gold_regression.ipynb     # 5 regression algorithms
 │   ├── 4_Gold_Classification_&_Clustering.ipynb — 5 classification & clustering algorithms + MLflow
 │   ├── 5_Evaluation_LIME_SHAP.ipynb — Confusion matrix, ROC, LIME, SHAP
-│   ├── 6_Scalability_Tableau_Export.ipynb — sklearn comparison, scaling, Tableau CSV export
+│   ├── 66_Gold_Layer_Tableau.ipynb — sklearn comparison, scaling, Tableau CSV export
 │
 ├── tableau/
 │   └── README_tableau.md           # Tableau dashboard guide
